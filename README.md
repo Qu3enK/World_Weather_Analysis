@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of the World Weather Analysis is to leverage the work completed for the PLANMYTRIP App Beta version and make adjustments based on feedback from the applicaiton's Beta testers.  The enhancements to the PLANMYTRIP App includes adding the weather description to the weather data, list of travel destinations with nearby hotels based on the users preferred weather search criteria.  The testers will select four cities from the list of suggested travel destinations to create a travel itinerary.  The Google Maps Directions API will generate a travel route between the four cities and a marker layer map. [^1]
+The purpose of the World Weather Analysis is to leverage the work completed for the PLANMYTRIP App Beta version and make adjustments based on feedback from the applicaiton's Beta testers.  The enhancements to the PLANMYTRIP App includes adding the weather description to the weather data and proving a list of travel destinations with nearby hotels based on the users preferred weather search criteria.  The testers will select four cities from the list of suggested travel destinations to create a travel itinerary.  The Google Maps Directions API will generate a travel route between the four cities and a marker layer map. [^1]
 
 
 
